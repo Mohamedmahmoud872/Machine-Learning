@@ -1,0 +1,55 @@
+part 1 test cases
+====================
+Input:
+training ratio: 0.25
+test ratio: 0.75
+
+Output:
+Max accuracy:  94.78527607361963
+Min accuracy:  91.71779141104295
+Mean accuracy:  93.40490797546012
+-----------------------------------------
+Input:
+training ratio: 0.3
+test ratio: 0.7
+
+Output:
+Max accuracy:  96.39344262295081
+Min accuracy:  91.14754098360656
+Mean accuracy:  93.66120218579236
+-----------------------------------------
+Input:
+training ratio: 0.4
+test ratio: 0.6
+
+Output:
+Max accuracy:  94.25287356321839
+Min accuracy:  91.18773946360153
+Mean accuracy:  92.78416347381865
+-------------------------------------------
+Input:
+training ratio: 0.5
+test ratio: 0.5
+
+Output:
+Max accuracy:  95.85253456221197
+Min accuracy:  90.78341013824884
+Mean accuracy:  93.47158218125959
+------------------------------------------
+Input:
+training ratio: 0.6
+test ratio: 0.4
+
+Output:
+Max accuracy:  95.97701149425288
+Min accuracy:  93.10344827586206
+Mean accuracy:  94.54022988505747
+-------------------------------------------------
+Input:
+training ratio: 0.7
+test ratio: 0.3
+
+Output:
+Max accuracy:  97.70992366412213
+Min accuracy:  91.6030534351145
+Mean accuracy:  93.89312977099237

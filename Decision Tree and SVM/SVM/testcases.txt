@@ -1,0 +1,41 @@
+Part 2 Trials
+=============
+Input:
+features = ['age', 'chol']
+learning_rate = 0.004
+
+Output:
+The Average is  0.5826907036187166
+The Best result is  0.7254901960784313
+
+-----------------------------------------------
+
+Input:
+features = ['age', 'chol']
+learning_rate = 0.009
+
+Output:
+The Average is  0.584148810589168
+The Best result is  0.7619047619047619
+
+-----------------------------------------------
+
+Input:
+features = ['age', 'thalach', 'chol']
+learning_rate = 0.005
+
+Output:
+The Average is  0.680440611756897
+The Best result is  0.82
+
+-----------------------------------------------
+
+Input:
+features = ['age', 'thalach', 'chol']
+learning_rate = 0.009
+
+Output:
+The Average is  0.6675504958000775
+The Best result is  0.8113207547169812
+
+-----------------------------------------------
